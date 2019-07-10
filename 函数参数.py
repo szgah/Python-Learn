@@ -7,6 +7,8 @@ def power(x,n=2):
         s = s*x
     return s
 
+    
+
 print(power(5,3))
 
 def enroll(name,gender,age=6,city='beijing'):
