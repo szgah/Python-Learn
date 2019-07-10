@@ -1,2 +1,2 @@
 # Python-Learn
-python learn record and demo code
+python learning record and demo code
