@@ -1,9 +1,4 @@
 
-
-
-
-
-
 def count():
     fs = []
     def f(i):
